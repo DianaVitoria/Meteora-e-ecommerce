@@ -1,6 +1,17 @@
+:root{
+    --roxo-claro: #9353FF;
+    --verde-limao: #DAFF01;
+}
+
 .texto-menor{
     font-size: 13px;
 }
 .facilidades{
     width: 320px;
+}
+.btn-primary{
+    background-color: var(--roxo-claro);
+}
+.verde{
+    color: var(--verde-limao);
 }
